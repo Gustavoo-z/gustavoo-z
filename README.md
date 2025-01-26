@@ -5,5 +5,5 @@
 </div>
 
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,sql,mysql,azuresqldatabase,vscode,github,figma,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,mysql,vscode,figma" />
 </div>
